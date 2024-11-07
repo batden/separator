@@ -183,7 +183,7 @@ _eval_instance_position(Instance *inst)
 {
    if (!inst) return;
    Eina_Bool horiz;
-   
+
    if (inst->ci->blank)
      {
        edje_object_signal_emit(inst->sep->o_icon, "hide_separator", "");
@@ -243,7 +243,7 @@ _button_cb_mouse_down(void *data, Evas *e __UNUSED__,
 {
    Instance *inst;
    Evas_Event_Mouse_Down *ev;
-   
+
    inst = data;
    ev = event_info;
    if (ev->button == 3)
@@ -311,7 +311,7 @@ e_modapi_init(E_Module *m)
    #undef D
    #define D conf_edd
    E_CONFIG_LIST(D, T, items, conf_item_edd);
-   
+
    sep_conf = e_config_domain_load("module.separator", conf_edd);
    if (!sep_conf) 
      {
@@ -324,7 +324,7 @@ e_modapi_init(E_Module *m)
 
         sep_conf->items = eina_list_append(sep_conf->items, ci);
      }
-   
+
    sep_conf->module = m;
    e_gadcon_provider_register(&_gc_class);
    return m;
