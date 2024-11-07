@@ -1,0 +1,18 @@
+images.image: "module_icon.png" COMP;
+
+collections {
+	group { "icon"; max: 48 48;
+		parts {
+			image { "image"; nomouse;
+				desc { "default"; vis;
+					aspect: 1.00 1.00;
+					rel1.relative: 0.00 0.00;
+					rel1.offset: 0 0;
+					rel2.relative: 1.00 1.00;
+					rel2.offset: -1 -1;
+					image.normal: "module_icon.png";
+				}
+			}
+		}
+	}
+}
