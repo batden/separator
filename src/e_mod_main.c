@@ -112,8 +112,12 @@ _gc_shutdown(E_Gadcon_Client *gcc)
 static void
 _gc_orient(E_Gadcon_Client *gcc, E_Gadcon_Orient orient __UNUSED__) 
 {
-   e_gadcon_client_aspect_set(gcc, 16, 16);
-   e_gadcon_client_min_size_set(gcc, 16, 16);
+   Instance *inst;
+   Evas_Coord mw, mh;
+
+   if (!(inst = gcc->data)) return;
+   edje_object_size_min_calc(inst->sep->o_icon, &mw, &mh);
+   e_gadcon_client_min_size_set(gcc, mw + 5, mh + 5);
 }
 
 static const char *
@@ -268,6 +272,7 @@ _button_cb_mouse_down(void *data, Evas *e __UNUSED__,
 
         mi = e_menu_item_new(m);
         e_menu_item_label_set(mi, D_("Blank separator"));
+        e_menu_item_check_set(mi, 1);
         if (inst->ci->blank) e_menu_item_toggle_set(mi, 1);
         e_menu_item_callback_set(mi, _sep_menu_blank_set, inst);
 
