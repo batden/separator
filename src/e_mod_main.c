@@ -346,8 +346,6 @@ e_modapi_shutdown(E_Module *m __UNUSED__)
 {
    sep_conf->module = NULL;
    e_gadcon_provider_unregister(&_gc_class);
-   if (sep_conf->config_dialog)
-     e_object_del(E_OBJECT(sep_conf->config_dialog));
 
    while (sep_conf->items) 
      {

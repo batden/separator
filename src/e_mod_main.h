@@ -16,7 +16,6 @@ typedef struct _Config_Item Config_Item;
 struct _Config 
 {
    E_Module        *module;
-   E_Config_Dialog *config_dialog;
    Eina_List       *instances;
    Eina_List       *items;
 };
