@@ -8,7 +8,6 @@ struct _Instance
 {
    E_Gadcon_Client *gcc;
    Separator *sep;
-   Ecore_Timer *timer;
    Config_Item *ci;
 };
 
