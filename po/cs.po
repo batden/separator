@@ -1,14 +1,13 @@
 # Czech translation.
 # This file is put in the public domain.
-# quaker66@gmail.com
-# Vít Pelčák <vit@pelcak.org>, 2011.
+# the_waiter <thewaiter@bodhilinux.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: Cpu\n"
 "Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2011-10-15 13:18+0200\n"
-"Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
+"Last-Translator: the_waiter <thewaiter@bodhilinux.com>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -19,9 +18,9 @@ msgstr ""
 
 #: src/e_mod_main.c:108
 msgid "Separator"
-msgstr ""
+msgstr "Oddělovač"
 
 #: src/e_mod_main.c:200
 msgid "Blank separator"
-msgstr ""
+msgstr "Prázdný oddělovač"
 
