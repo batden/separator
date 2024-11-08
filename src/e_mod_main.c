@@ -35,11 +35,24 @@ static E_Config_DD *conf_item_edd = NULL;
 Config *sep_conf = NULL;
 static int blank;
 
+static Eina_Bool
+_separator_site_is_safe(E_Gadcon_Site site)
+{
+   /* There is nothing logical to have separator on the desktop */
+
+   if (e_gadcon_site_is_desktop(site))
+     return EINA_FALSE;
+   else if (e_gadcon_site_is_any_toolbar(site))
+     return EINA_FALSE;
+   return EINA_TRUE;
+}
+
 static const E_Gadcon_Client_Class _gc_class = 
 {
    GADCON_CLIENT_CLASS_VERSION, "separator", 
    {
-      _gc_init, _gc_shutdown, _gc_orient, _gc_label, _gc_icon, _gc_id_new, NULL, NULL
+      _gc_init, _gc_shutdown, _gc_orient, _gc_label, _gc_icon, _gc_id_new, NULL,
+      _separator_site_is_safe
    },
    E_GADCON_CLIENT_STYLE_PLAIN
 };
