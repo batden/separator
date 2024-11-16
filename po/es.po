@@ -18,9 +18,9 @@ msgstr ""
 
 #: src/e_mod_main.c:108
 msgid "Separator"
-msgstr ""
+msgstr "Separador"
 
 #: src/e_mod_main.c:200
 msgid "Blank separator"
-msgstr ""
+msgstr "Separador en blanco"
 
