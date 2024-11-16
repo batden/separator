@@ -3,8 +3,8 @@
 # the_waiter <thewaiter@bodhilinux.com>, 2024.
 msgid ""
 msgstr ""
-"Project-Id-Version: Cpu\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"Project-Id-Version: Moksha Separator 0.17\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2011-10-15 13:18+0200\n"
 "Last-Translator: the_waiter <thewaiter@bodhilinux.com>\n"
