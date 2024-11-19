@@ -1,5 +1,5 @@
 # translation of el.po to Greek
-# Cpu module (e17), French translation
+# Separator module (Moksha), French translation
 # This file is put in the public domain.
 #
 #
@@ -7,8 +7,8 @@
 # Giorgos Koutsikos <ragecryx@yahoo.gr>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: el\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"Project-Id-Version: Separator\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2009-03-05 03:24+0200\n"
 "Last-Translator: Giorgos Koutsikos <ragecryx@yahoo.gr>\n"

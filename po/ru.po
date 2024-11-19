@@ -3,8 +3,8 @@
 # Koptev Oleg <koptev.oleg@gmail.com>, 2009
 msgid ""
 msgstr ""
-"Project-Id-Version: CPU\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"Project-Id-Version: Separator\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2009-05-15 19:37+0400\n"
 "Last-Translator: Koptev Oleg <koptev.oleg@gmail.com>\n"

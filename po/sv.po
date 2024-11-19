@@ -1,12 +1,12 @@
-# Swedish translation of CPU module for E17.
+# Swedish translation of Separator module for Moksha.
 # This file is put in the public domain.
 # Anders Trobäck <enlightenment@troback.com>, 2006.
 # Daniel Nylander <yeager@ubuntu.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: CPU module for E17 N/A\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"Project-Id-Version: Separator module 0.0.1\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2009-01-10 12:04+0000\n"
 "Last-Translator: Daniel Nylander <yeager@ubuntu.com>\n"

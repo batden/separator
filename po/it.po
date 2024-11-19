@@ -1,11 +1,11 @@
-# Italian translation for E17 cpu module.
+# Italian translation for Moksha Separator module.
 # This file is put in the public domain.
 # Massimo Maiurana <maiurana@inwind.it>, 2005.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Cpu\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"Project-Id-Version: Separator\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2011-11-22 21:40+0100\n"
 "Last-Translator: Massimo Maiurana <maiurana@inwind.it>\n"

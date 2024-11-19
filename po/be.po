@@ -3,8 +3,8 @@
 # R0bur <robursw@gmail.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: CPU\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"Project-Id-Version: Separator\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2023-07-06 19:00+0300\n"
 "Last-Translator: R0bur <robursw@gmail.com>\n"

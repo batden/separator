@@ -1,11 +1,11 @@
-# Cpu module (e17), Finnish translation
+# Separator module (Moksha), Finnish translation
 # This file is put in the public domain.
 # Jani väyrynen <janivayrynen@gmail.com>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Cpu module (e17)\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"Project-Id-Version: Separator module\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2008-01-23 01:50+0200\n"
 "Last-Translator: Jani väyrynen <janivayrynen@gmail.com>\n"

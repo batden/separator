@@ -1,10 +1,10 @@
-# Bulgarian translations for cpu package.
+# Bulgarian translations for separator package.
 # This file is put in the public domain.
 #  <luchezar.petkov@gmail.com>, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cpu 0.0.1\n"
+"Project-Id-Version: Separator 0.0.1\n"
 "Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2009-09-11 09:10+0000\n"
@@ -24,45 +24,3 @@ msgstr ""
 #: src/e_mod_main.c:200
 msgid "Blank separator"
 msgstr ""
-
-#~ msgid "Cpu"
-#~ msgstr "Cpu"
-
-#~ msgid "Fast (0.5 sec)"
-#~ msgstr "Бързо (0.5 сек)"
-
-#~ msgid "Medium (1 sec)"
-#~ msgstr "Средно (1 сек)"
-
-#~ msgid "Normal (2 sec)"
-#~ msgstr "Нормално (2 сек)"
-
-#~ msgid "Slow (5 sec)"
-#~ msgstr "Бавно (5 сек)"
-
-#~ msgid "Very Slow (30 sec)"
-#~ msgstr "Много бавно (30 сек)"
-
-#~ msgid "Time Between Updates"
-#~ msgstr "Време между обновяванията"
-
-#~ msgid "Cpu Configuration"
-#~ msgstr "Конфигурация на модул Cpu"
-
-#~ msgid "Cpu Settings"
-#~ msgstr "Настройки на модул Cpu"
-
-#~ msgid "Show Text"
-#~ msgstr "Показва графика"
-
-#~ msgid "Show Graph"
-#~ msgstr "Показва графика"
-
-#~ msgid "Check Interval:"
-#~ msgstr "Интервал от време за проверка:"
-
-#~ msgid "Enlightenment Cpu Monitor Module"
-#~ msgstr "Модул за наблюдение на процесора към Enlightenment"
-
-#~ msgid "This module is used to monitor a cpu."
-#~ msgstr "Този модул се използва за наблюдение на процесора."

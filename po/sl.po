@@ -1,4 +1,4 @@
-# Slovenian translation of CPU.
+# Slovenian translation of Separator.
 # This file is put in the public domain.
 # r1to <renato.rener@gmail.com>, 2011.
 # , fuzzy
@@ -6,8 +6,8 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: CPU 1.0\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"Project-Id-Version: Separator 0.0.1\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2011-02-20 17:44+0100\n"
 "Last-Translator: r1to <renato.rener@gmail.com>\n"
