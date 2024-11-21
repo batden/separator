@@ -26,7 +26,7 @@ static const char *_gc_id_new(const E_Gadcon_Client_Class *client_class);
 static Config_Item *_config_item_get(const char *id);
 static void _button_cb_mouse_down(void *data, Evas *e, Evas_Object *obj, void *event_info);
 static void _eval_instance_position(Instance *inst);
-//~ static void _menu_cb_post(void *data, E_Menu *m);
+
 
 static E_Config_DD *conf_edd = NULL;
 static E_Config_DD *conf_item_edd = NULL;
@@ -305,14 +305,14 @@ e_modapi_init(E_Module *m)
 
    conf_item_edd = E_CONFIG_DD_NEW("Separator_Config_Item", Config_Item);
    conf_edd = E_CONFIG_DD_NEW("Separator_Config", Config);
-   
+
    #undef T
    #define T Config_Item
    #undef D
    #define D conf_item_edd
    E_CONFIG_VAL(D, T, id, STR);
    E_CONFIG_VAL(D, T, blank, INT);
-   
+
    #undef T
    #define T Config
    #undef D
