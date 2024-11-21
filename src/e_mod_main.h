@@ -32,8 +32,6 @@ EAPI void *e_modapi_init     (E_Module *m);
 EAPI int   e_modapi_shutdown (E_Module *m);
 EAPI int   e_modapi_save     (E_Module *m);
 
-//void _config_cpu_module      (Config_Item *ci);
-
 extern Config *sep_conf;
 
 #endif

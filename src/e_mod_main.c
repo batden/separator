@@ -277,7 +277,6 @@ _button_cb_mouse_down(void *data, Evas *e __UNUSED__,
         e_menu_item_callback_set(mi, _sep_menu_blank_set, inst);
 
         m = e_gadcon_client_util_menu_items_append(inst->gcc, m, 0);
-        //~ e_menu_post_deactivate_callback_set(m, _menu_cb_post, inst);
 
         e_gadcon_canvas_zone_geometry_get(inst->gcc->gadcon, &cx, &cy, &cw, &ch);
         e_menu_activate_mouse(m,
@@ -288,14 +287,6 @@ _button_cb_mouse_down(void *data, Evas *e __UNUSED__,
                               EVAS_BUTTON_NONE, ev->timestamp, NULL);
      }
 }
-
-//~ static void
-//~ _menu_cb_post(void *data __UNUSED__, E_Menu *m __UNUSED__)
-//~ {
-   //~ if (sep_conf->menu_blank)
-     //~ e_object_del(E_OBJECT(sep_conf->menu_blank));
-   //~ sep_conf->menu_blank = NULL;
-//~ }
 
 
 EAPI E_Module_Api e_modapi = 
