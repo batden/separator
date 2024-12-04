@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Separator\n"
-"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
 "POT-Creation-Date: 2024-11-07 19:05+0100\n"
 "PO-Revision-Date: 2010-11-26 17:51+0100\n"
 "Last-Translator: Fabian Nowak <timystery@arcor.de>\n"
@@ -18,9 +18,8 @@ msgstr ""
 
 #: src/e_mod_main.c:108
 msgid "Separator"
-msgstr ""
+msgstr "Trenner"
 
 #: src/e_mod_main.c:200
 msgid "Blank separator"
-msgstr ""
-
+msgstr "Leere Trennfläche"
