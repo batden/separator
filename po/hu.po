@@ -1,13 +1,11 @@
-# Hungarian translation for Separator module
-# Copyright (C) YEAR Enlightenment development team
-# This file is distributed under the same license as the PACKAGE package.
-#
+# Hungarian translation for Separator.
+# This file is put in the public domain
 # Lisovszki  <lisovszki@gmail.com>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: Separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-11-07 19:05+0100\n"
+"POT-Creation-Date: 2024-12-14 09:26-0500\n"
 "PO-Revision-Date: 2008-02-02 20:13+0100\n"
 "Last-Translator: Lisovszki  <lisovszki@gmail.com>\n"
 "Language-Team: hungarian <hu@li.org>\n"
@@ -17,12 +15,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
-#: src/e_mod_main.c:108
+#: src/e_mod_main.c:127
 msgid "Separator"
 msgstr ""
 
-#: src/e_mod_main.c:200
+#: src/e_mod_main.c:275
 msgid "Blank separator"
 msgstr ""
-

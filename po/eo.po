@@ -1,14 +1,10 @@
-# translation of eo.po to
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-#
-# Olivier M. <olivierweb@ifrance.com>, 2008.
-# Olivier <eliovir@nospam.gmail.com>, 2009.
+# Esperanto translation for Separator.
+# This file is put in the public domain.
 msgid ""
 msgstr ""
 "Project-Id-Version: Separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-11-07 19:05+0100\n"
+"POT-Creation-Date: 2024-12-14 09:26-0500\n"
 "PO-Revision-Date: 2009-05-16 12:30+0000\n"
 "Last-Translator: Olivier <eliovir@nospam.gmail.com>\n"
 "Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
@@ -18,12 +14,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 0.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
 
-#: src/e_mod_main.c:108
+#: src/e_mod_main.c:127
 msgid "Separator"
 msgstr ""
 
-#: src/e_mod_main.c:200
+#: src/e_mod_main.c:275
 msgid "Blank separator"
 msgstr ""
-

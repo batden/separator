@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-11-07 19:05+0100\n"
+"POT-Creation-Date: 2024-12-14 09:26-0500\n"
 "PO-Revision-Date: 2011-11-22 21:40+0100\n"
 "Last-Translator: Massimo Maiurana <maiurana@inwind.it>\n"
 "Language-Team: none\n"
@@ -15,11 +15,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 
-#: src/e_mod_main.c:108
+#: src/e_mod_main.c:127
 msgid "Separator"
 msgstr ""
 
-#: src/e_mod_main.c:200
+#: src/e_mod_main.c:275
 msgid "Blank separator"
 msgstr ""
-

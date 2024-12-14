@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Separator module\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2024-11-07 19:05+0100\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"POT-Creation-Date: 2024-12-14 09:26-0500\n"
 "PO-Revision-Date: 2024-11-12 16:55+0100\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: French\n"
@@ -18,10 +18,10 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Generator: Poedit 3.0.1\n"
 
-#: src/e_mod_main.c:108
+#: src/e_mod_main.c:127
 msgid "Separator"
 msgstr "Séparateur"
 
-#: src/e_mod_main.c:200
+#: src/e_mod_main.c:275
 msgid "Blank separator"
 msgstr "Séparateur vide"
