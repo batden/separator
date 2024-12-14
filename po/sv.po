@@ -20,5 +20,5 @@ msgid "Separator"
 msgstr ""
 
 #: src/e_mod_main.c:275
-msgid "Blank separator"
+msgid "Transparent"
 msgstr ""
