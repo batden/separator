@@ -272,7 +272,7 @@ _button_cb_mouse_down(void *data, Evas *e __UNUSED__,
         m = e_menu_new();
 
         mi = e_menu_item_new(m);
-        e_menu_item_label_set(mi, D_("Blank separator"));
+        e_menu_item_label_set(mi, D_("Transparent"));
         e_menu_item_check_set(mi, 1);
         if (inst->ci->blank) e_menu_item_toggle_set(mi, 1);
         e_menu_item_callback_set(mi, _sep_menu_blank_set, inst);
