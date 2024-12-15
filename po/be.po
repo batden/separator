@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-14 09:26-0500\n"
-"PO-Revision-Date: 2023-07-06 19:00+0300\n"
+"PO-Revision-Date: 2024-12-15 16:00+0300\n"
 "Last-Translator: R0bur <robursw@gmail.com>\n"
 "Language-Team: Belarusian\n"
 "Language: be\n"
@@ -19,8 +19,8 @@ msgstr ""
 
 #: src/e_mod_main.c:127
 msgid "Separator"
-msgstr ""
+msgstr "Раздзяляльнік"
 
 #: src/e_mod_main.c:275
 msgid "Transparent"
-msgstr ""
+msgstr "Празрысты"
