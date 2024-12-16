@@ -17,8 +17,8 @@ msgstr ""
 
 #: src/e_mod_main.c:127
 msgid "Separator"
-msgstr ""
+msgstr "Separatore"
 
 #: src/e_mod_main.c:275
 msgid "Transparent"
-msgstr ""
+msgstr "Transparente"
