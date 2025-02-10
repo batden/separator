@@ -1,14 +1,15 @@
-# Swedish translation of Separator module for Moksha.
+# Swedish translation for the Separator module.
 # This file is put in the public domain.
-# Daniel Nylander <yeager@ubuntu.com>, 2009.
+#
+# Automatically generated, 2025.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Separator module 0.0.1\n"
+"Project-Id-Version: separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-14 09:26-0500\n"
-"PO-Revision-Date: 2009-01-10 12:04+0000\n"
-"Last-Translator: Daniel Nylander <yeager@ubuntu.com>\n"
+"PO-Revision-Date: 2024-12-14 09:26-0500\n"
+"Last-Translator: Automatically generated\n"
 "Language-Team: Swedish\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"

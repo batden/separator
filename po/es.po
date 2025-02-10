@@ -1,20 +1,20 @@
-# Spanish translation  for Separator.
+# Spanish translation for the Separator module.
 # This file is put in the public domain.
+#
 # Alejandro Díaz <escuelaslinux@gmail.com>. 2024
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Separator 0.0.1\n"
+"Project-Id-Version: separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-14 09:26-0500\n"
-"PO-Revision-Date: 2009-04-11 13:57+0000\n"
+"PO-Revision-Date: 2024-12-14 09:26-0500\n"
 "Last-Translator: Alejandro Díaz <escuelaslinux@gmail.com>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"Language-Team: Spanish\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
 
 #: src/e_mod_main.c:127
 msgid "Separator"

@@ -1,15 +1,16 @@
-# Polish translation for Separator.
+# Polish translation for the Separator module.
 # This file is put in the public domain.
+#
 # Stanislaw Gackowski <launchpad@soeb.eu>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Separator\n"
+"Project-Id-Version: separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-14 09:26-0500\n"
-"PO-Revision-Date: 2009-02-19 15:11+0000\n"
+"PO-Revision-Date: 2024-12-14 09:26-0500\n"
 "Last-Translator: Stanislaw Gackowski <launchpad@soeb.eu>\n"
-"Language-Team: Polish <pl@li.org>\n"
+"Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

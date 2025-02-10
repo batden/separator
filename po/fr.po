@@ -1,10 +1,11 @@
-# French translation for Separator.
+# French translation for the Separator module.
 # This file is put in the public domain.
+#
 # batden <batden@orange.fr>, 2024.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Separator module\n"
+"Project-Id-Version: separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-14 09:26-0500\n"
 "PO-Revision-Date: 2024-11-12 16:55+0100\n"

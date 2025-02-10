@@ -1,14 +1,15 @@
-# Slovenian translation of Separator.
+# Slovenian translation for the Separator module.
 # This file is put in the public domain.
-# r1to <renato.rener@gmail.com>, 2011.
+#
+# Automatically generated, 2025.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Separator 0.0.1\n"
+"Project-Id-Version: separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-14 09:26-0500\n"
-"PO-Revision-Date: 2011-02-20 17:44+0100\n"
-"Last-Translator: r1to <renato.rener@gmail.com>\n"
+"PO-Revision-Date: 2024-12-14 09:26-0500\n"
+"Last-Translator: Automatically generated\n"
 "Language-Team: Slovenian\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"

@@ -1,15 +1,16 @@
-# Slovak translation for Separator.
+# Slovak translation for the Separator module.
 # This file is put in the public domain.
+#
 # the_waiter <thewaiter@bodhilinux.com>, 2024.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Moksha Separator 0.0.1\n"
+"Project-Id-Version: separator\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-14 09:26-0500\n"
-"PO-Revision-Date: 2009-01-26 07:45+0000\n"
+"PO-Revision-Date: 2024-12-14 09:26-0500\n"
 "Last-Translator: the_waiter <thewaiter@bodhilinux.com>\n"
-"Language-Team: Slovak <sk@li.org>\n"
+"Language-Team: Slovak\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
